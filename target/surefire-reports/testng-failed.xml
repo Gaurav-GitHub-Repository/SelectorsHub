@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="Test.TestCase15">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase15 -->
+      <class name="Test.TestCase104">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase104 -->
+      <class name="Test.TestCase73">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase73 -->
+      <class name="Test.TestCase68">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase68 -->
+      <class name="Test.TestCase67">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase67 -->
+      <class name="Test.TestCase65">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase65 -->
+      <class name="Test.TestCase28">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase28 -->
+      <class name="Test.TestCase33">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase33 -->
+      <class name="Test.TestCase44">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase44 -->
+      <class name="Test.TestCase93">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase93 -->
+      <class name="Test.TestCase34">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase34 -->
+      <class name="Test.TestCase38">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase38 -->
+      <class name="Test.TestCase37">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase37 -->
+      <class name="Test.TestCase105">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase105 -->
+      <class name="Test.TestCase24">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase24 -->
+      <class name="Test.TestCase62">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase62 -->
+      <class name="Test.TestCase21">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase21 -->
+      <class name="Test.TestCase46">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase46 -->
+      <class name="Test.TestCase45">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase45 -->
+      <class name="Test.TestCase107">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase107 -->
+      <class name="Test.TestCase56">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase56 -->
+      <class name="Test.TestCase1">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase1 -->
+      <class name="Test.TestCase53">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase53 -->
+      <class name="Test.TestCase8">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase8 -->
+      <class name="Test.TestCase94">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase94 -->
+      <class name="Test.TestCase7">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase7 -->
+      <class name="Test.TestCase92">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase92 -->
+      <class name="Test.TestCase26">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase26 -->
+      <class name="Test.TestCase70">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase70 -->
+      <class name="Test.TestCase35">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase35 -->
+      <class name="Test.TestCase40">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase40 -->
+      <class name="Test.TestCase3">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase3 -->
+      <class name="Test.TestCase101">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase101 -->
+      <class name="Test.TestCase54">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase54 -->
+      <class name="Test.TestCase32">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase32 -->
+      <class name="Test.TestCase98">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase98 -->
+      <class name="Test.TestCase78">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase78 -->
+      <class name="Test.TestCase29">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase29 -->
+      <class name="Test.TestCase6">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase6 -->
+      <class name="Test.TestCase16">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase16 -->
+      <class name="Test.TestCase81">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase81 -->
+      <class name="Test.TestCase23">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase23 -->
+      <class name="Test.TestCase66">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase66 -->
+      <class name="Test.TestCase59">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase59 -->
+      <class name="Test.TestCase91">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase91 -->
+      <class name="Test.TestCase89">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase89 -->
+      <class name="Test.TestCase90">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase90 -->
+      <class name="Test.TestCase20">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase20 -->
+      <class name="Test.TestCase88">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase88 -->
+      <class name="Test.TestCase17">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase17 -->
+      <class name="Test.TestCase97">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase97 -->
+      <class name="Test.TestCase55">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase55 -->
+      <class name="Test.TestCase11">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase11 -->
+      <class name="Test.TestCase95">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase95 -->
+      <class name="Test.TestCase82">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase82 -->
+      <class name="Test.TestCase4">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase4 -->
+      <class name="Test.TestCase106">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase106 -->
+      <class name="Test.TestCase64">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase64 -->
+      <class name="Test.TestCase103">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase103 -->
+      <class name="Test.TestCase77">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase77 -->
+      <class name="Test.TestCase5">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase5 -->
+      <class name="Test.TestCase9">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase9 -->
+      <class name="Test.TestCase42">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase42 -->
+      <class name="Test.TestCase75">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase75 -->
+      <class name="Test.TestCase52">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase52 -->
+      <class name="Test.TestCase31">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase31 -->
+      <class name="Test.TestCase69">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase69 -->
+      <class name="Test.TestCase58">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase58 -->
+      <class name="Test.TestCase18">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase18 -->
+      <class name="Test.TestCase41">
+        <methods>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase41 -->
+      <class name="Test.TestCase25">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase25 -->
+      <class name="Test.TestCase19">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase19 -->
+      <class name="Test.TestCase100">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase100 -->
+      <class name="Test.TestCase80">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase80 -->
+      <class name="Test.TestCase79">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase79 -->
+      <class name="Test.TestCase76">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase76 -->
+      <class name="Test.TestCase30">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase30 -->
+      <class name="Test.TestCase61">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase61 -->
+      <class name="Test.TestCase71">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase71 -->
+      <class name="Test.TestCase47">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase47 -->
+      <class name="Test.TestCase96">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase96 -->
+      <class name="Test.TestCase83">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase83 -->
+      <class name="Test.TestCase2">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase2 -->
+      <class name="Test.TestCase60">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- Test.TestCase60 -->
+      <class name="Test.TestCase57">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase57 -->
+      <class name="Test.TestCase74">
+        <methods>
+          <include name="regression"/>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase74 -->
+      <class name="Test.TestCase22">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase22 -->
+      <class name="Test.TestCase51">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase51 -->
+      <class name="Test.TestCase87">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase87 -->
+      <class name="Test.TestCase43">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase43 -->
+      <class name="Test.TestCase39">
+        <methods>
+          <include name="logout"/>
+          <include name="regression"/>
+          <include name="initializeBrowser"/>
+        </methods>
+      </class> <!-- Test.TestCase39 -->
+      <class name="Test.TestCase10">
+        <methods>
+          <include name="logout"/>
+          <include name="initializeBrowser"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase10 -->
+      <class name="Test.TestCase102">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="logout"/>
+          <include name="regression"/>
+        </methods>
+      </class> <!-- Test.TestCase102 -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

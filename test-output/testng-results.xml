@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T12:12:48 IST" name="Suite" finished-at="2024-03-29T12:13:22 IST" duration-ms="34066">
+    <groups>
+      <group name="RegressionTest">
+        <method signature="TestCase107.regression()[pri:0, instance:Test.TestCase107@31190526]" name="regression" class="Test.TestCase107"/>
+      </group> <!-- RegressionTest -->
+      <group name="Login">
+        <method signature="TestCase107.initializeBrowser(java.lang.String)[pri:0, instance:Test.TestCase107@31190526]" name="initializeBrowser" class="Test.TestCase107"/>
+      </group> <!-- Login -->
+    </groups>
+    <test started-at="2024-03-29T12:12:48 IST" name="Test" finished-at="2024-03-29T12:13:22 IST" duration-ms="34066">
+      <class name="Test.TestCase107">
+        <test-method signature="initializeBrowser(java.lang.String)[pri:0, instance:Test.TestCase107@31190526]" started-at="2024-03-29T12:12:48 IST" name="initializeBrowser" finished-at="2024-03-29T12:13:04 IST" duration-ms="15965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="regression()[pri:0, instance:Test.TestCase107@31190526]" started-at="2024-03-29T12:13:04 IST" name="regression" finished-at="2024-03-29T12:13:22 IST" duration-ms="17941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regression -->
+      </class> <!-- Test.TestCase107 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
